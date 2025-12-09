@@ -7,6 +7,11 @@ Groch zzieleniał aż ze złości:
 Jak pan może,
 Panie pomidorze?!
 Rzepa także go zagadnie:
+<<<<<<< HEAD
 - Fel! Niedobrze! Fel
 Jak pan może
+=======
+-Fe! Niedobrze! Fe! Nieładnie!
+Jak pan może,
+>>>>>>> 337bab0110c45f7e5e641ebdeba0369052a87158
 Panie pomidorze?!
